@@ -11,3 +11,5 @@ document.write(answers); */
 const user = prompt("What is your name?", "");
 
 alert(`Hello, ${user}`);
+
+console.log('Test 2');
